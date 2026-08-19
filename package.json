@@ -1,0 +1,19 @@
+{
+  "name": "pc-lopal",
+  "version": "1.0.0",
+  "description": "repositório para armazenar os códigos da aula.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuspavao2/pc-lopal.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/matheuspavao2/pc-lopal/issues"
+  },
+  "homepage": "https://github.com/matheuspavao2/pc-lopal#readme"
+}
