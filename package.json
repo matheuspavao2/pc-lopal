@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/matheuspavao2/pc-lopal/issues"
   },
-  "homepage": "https://github.com/matheuspavao2/pc-lopal#readme"
+  "homepage": "https://github.com/matheuspavao2/pc-lopal#readme",
+  "devDependencies": {
+    "chalk": "^4.1.2"
+  },
+  "dependencies": {
+    "readline-sync": "1.4.10"
+  }
 }
