@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/matheuspavao2/pc-lopal#readme",
   "devDependencies": {
-    "chalk": "^4.1.2"
+    "chalk": "6.0.0"
   },
   "dependencies": {
-    "readline-sync": "1.4.10"
+    "readline-sync": "^1.4.10"
   }
 }
